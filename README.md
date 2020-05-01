@@ -7,11 +7,11 @@ Backend criado em NodeJS, GraphQL, e armazenando os dados no MongoDB instanciado
 - NodeJS
 - GraphQL
 - GraphQL-Yoga
-- GraphQL-Yoga
 - Mongoose
 - MongoDB
 - Docker/Docker-compose
 - Restify (in PROD)
+- PM2 (in PROD)
 - \* [check package.json](/backend-graphql/package.json)
 
 ### How to run the development mode
