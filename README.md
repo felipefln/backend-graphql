@@ -5,6 +5,7 @@ Backend criado em NodeJS, GraphQL, e armazenando os dados no MongoDB instanciado
 
 # Stack
 - NodeJS
+- Express
 - GraphQL
 - GraphQL-Yoga
 - Mongoose
