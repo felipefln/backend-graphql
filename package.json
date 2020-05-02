@@ -8,7 +8,9 @@
     "start": "pm2 start src/index.js --watch --no-daemon --node-args=\"-r esm -r dotenv/config\""
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "esm": "^3.2.25",
+    "express": "^4.17.1",
     "graphql-yoga": "^1.18.3",
     "mongoose": "^5.9.11",
     "pm2": "^4.4.0",
