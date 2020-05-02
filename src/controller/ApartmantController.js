@@ -19,5 +19,11 @@ module.exports = {
     async list(request, response) {
         const apartmant = await Apartmant.find()
         return response.json(apartmant)
+    },
+
+    async delete(request, response) {
+        const { _id } = request.params;
+        await Apartmant.deleteOne(_id)
+        return response.status(204).send()
     }
 }
