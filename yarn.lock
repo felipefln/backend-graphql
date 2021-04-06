@@ -3227,9 +3227,9 @@ symbol-observable@^1.0.4:
   integrity sha512-e900nM8RRtGhlV36KGEU9k65K3mPb1WV70OdjfxlG2EAuM1noi/E/BaW/uMhL7bPEssK8QV57vN3esixjUvcXQ==
 
 systeminformation@^4.23.3:
-  version "4.23.10"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-4.23.10.tgz#8ecb4976526c2c4ddd21cc5c34d7d698749359c2"
-  integrity sha512-cp3ZlHYh4lR/fwq6253eF7WLiA5FjiJbBBMwydkS+OTLAmVxzVF0JxvYjOxiqi+HViB9sGamqVhvx/PU5MgSjw==
+  version "4.34.19"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-4.34.19.tgz#c5f066cc043482686d95bbc554d52e6ec9e42367"
+  integrity sha512-ssUYQ0s1FFeb8EGtyCX/41cC/XaF84gbNAUfaUTziibx+xCAaR0zrOy0yZlnUrsWDQ+snp/Utl8cx8IdtrevrA==
 
 term-size@^2.1.0:
   version "2.2.0"
